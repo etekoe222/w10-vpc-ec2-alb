@@ -1,9 +1,9 @@
 terraform {
   backend "s3" {
-    bucket         = "richau22"
+    bucket         = "rrtryuujjj"
     key            = "week10/terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
-    #dynamodb_table = "josh-2017"
+    dynamodb_table = "jnhffdgh"
   }
 }
